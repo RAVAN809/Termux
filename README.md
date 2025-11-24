@@ -15,7 +15,7 @@ paste below command in termux for install termux banner.
 <pre>
   pkg install python -y 
   pkg install git
-  git clone https://github.com/Sunnyji7256/Termux_Banner.git
+  git clone https://github.com/RAVAN809/Termux.git
   ls
   cd termux_banner
   ls
